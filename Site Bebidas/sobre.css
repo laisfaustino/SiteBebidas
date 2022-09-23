@@ -1,0 +1,163 @@
+body{
+    background-color:black;
+}
+
+footer{
+    background-color: #fefefe;
+}
+
+.navegacao{
+    color:darkgoldenrod ;
+    background-color: black;
+    font-size: 25px;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navegacao ul{
+    list-style-type: none;
+    display: flex;
+}
+.navegacao ul li{
+padding-right: 70px;
+
+}
+
+.parte1{
+    display:flex;
+}
+
+.parte2{
+    display: flex;
+}
+
+.banner{
+    background: linear-gradient(#00000066 ,#000000a0), url(banner.jpg);
+    background-position: center;    
+    background-size: cover;
+    height: 80vh;
+    color:  #fefefe;
+}
+
+.banner h1{
+    color: darkgoldenrod;
+    font-size: 3.5rem;
+    padding-top: 120px;
+    padding-left: 60px;
+}
+
+.main{
+    margin: 0 auto;
+    max-width: 1024px;
+
+}
+
+.texto1 p{
+    font-size: 1.2rem;
+    padding: 10px 500px 0 60px;
+    text-align: justify;
+    }
+
+.texto2 h1{
+    color:darkgoldenrod;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.texto2 p{
+    color: #fefefe;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0 20%;
+}
+
+
+.missao1{
+    background: linear-gradient(#00000013 ,#00000034), url(clientes2.jpg);
+    background-size: cover;
+    margin: 100px 80px;
+    height: 50vh;
+    width: 70vh;
+    text-align:center;
+    color: #fefefe;
+    font-size: 1rem;
+    
+}
+
+.missao2{
+    background: linear-gradient(#00000013 ,#00000034), url(barman.jpg);
+    background-size: cover;
+    margin: 100px 40px;
+    height: 50vh;
+    width: 70vh;
+    text-align:center;
+    color: #fefefe;
+    font-size: 1rem;
+}
+
+.missao3{
+    background: linear-gradient(#00000013 ,#00000034), url(bartender.jpg);
+    background-size: cover;
+    margin: 10px 30px;
+    padding-left: 2rem;
+    height: 40vh;
+    width: 60vh;
+    text-align:center;
+    color: #fefefe;
+    font-size: 1rem;
+}
+
+.missao4{
+    background: linear-gradient(#00000066 ,#000000a0), url(diversidades.jpg);
+    background-size: cover;
+    margin: 10px 30px;
+    height: 40vh;
+    width: 60vh;
+    text-align:center;
+    color: #fefefe;
+    font-size: 1rem;
+}
+
+.missao5{
+    background: linear-gradient(#00000066 ,#000000a0), url(trabalho.png);
+    background-size: cover;
+    margin: 10px 30px;
+    height: 40vh;
+    width: 60vh;
+    text-align:center;
+    color: #fefefe;
+    font-size: 1rem;
+}
+
+.frase p{
+    margin-top: 80px;
+    color: darkgoldenrod;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.pagamento{
+    margin-left: 20px;
+}
+
+.pagamento p{
+    color: black;
+    margin: 5px 30px;
+    font-size: 1.5rem;
+}
+
+.pagamento h2{
+    color: black;
+    padding-left: 180vh;
+    font-size: 1.3rem;
+}
+
+.copy{
+    color:darkgoldenrod ;
+    text-align: center;
+    margin-top: 10PX;
+}
+
+
